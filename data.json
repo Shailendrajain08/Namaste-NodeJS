@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Shailendra",
+        "city": "Damoh",
+        "country": "India"
+    },
+    {
+        "name": "John Doe",
+        "city": "New York",
+        "country": "USA"
+    },
+    {
+        "name": "Jane Smith",
+        "city": "London",
+        "country": "UK"
+    },
+    {
+        "name": "Akira Tanaka",
+        "city": "Tokyo",
+        "country": "Japan"
+    },
+    {
+        "name": "Carlos Hernández",
+        "city": "Mexico City",
+        "country": "Mexico"
+    },
+    {
+        "name": "Liu Wei",
+        "city": "Beijing",
+        "country": "China"
+    },
+    {
+        "name": "Fatima Hassan",
+        "city": "Cairo",
+        "country": "Egypt"
+    },
+    {
+        "name": "Hans Müller",
+        "city": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "name": "Amara Singh",
+        "city": "Mumbai",
+        "country": "India"
+    }
+]
